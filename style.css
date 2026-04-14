@@ -17,34 +17,34 @@ h1 {
     text-align:center;
 }
 
-#pink {
+p.pink {
     color:pink
 }
 
-#lightpink {
+p.lightpink {
     color:lightpink
 }
 
-#salmon {
+p.salmon {
     color:salmon
 }
 
-#darksalmon {
+p.darksalmon {
     color:darksalmon;
 }
 
-#mistyrose {
+p.mistyrose {
     color:mistyrose
 }
 
-#lavenderblush {
+p.lavenderblush {
     color:lavenderblush;
 }
 
-#plum {
+p.plum {
     color:plum;
 }
 
-#thistle {
+p.thistle {
     color:thistle;
 }
